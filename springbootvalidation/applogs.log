@@ -1,0 +1,18 @@
+2022-05-16 17:36:19.083  INFO 11280 --- [restartedMain] c.j.mvc.SpringbootvalidationApplication  : Starting SpringbootvalidationApplication using Java 17.0.2 on JOBIAK-FR-10 with PID 11280 (C:\Users\Fresher\Downloads\sts-4.14.0.RELEASE\e\jobiak\springboot\springbootvalidation\target\classes started by Fresher in C:\Users\Fresher\Downloads\sts-4.14.0.RELEASE\e\jobiak\springboot\springbootvalidation)
+2022-05-16 17:36:19.084  INFO 11280 --- [restartedMain] c.j.mvc.SpringbootvalidationApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-05-16 17:36:19.120  INFO 11280 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-16 17:36:19.121  INFO 11280 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-16 17:36:19.770  INFO 11280 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-16 17:36:19.777  INFO 11280 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-16 17:36:19.778  INFO 11280 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-05-16 17:36:19.904  INFO 11280 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-05-16 17:36:19.911  INFO 11280 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-16 17:36:19.911  INFO 11280 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 790 ms
+2022-05-16 17:36:20.158  INFO 11280 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-16 17:36:20.196  INFO 11280 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-16 17:36:20.204  INFO 11280 --- [restartedMain] c.j.mvc.SpringbootvalidationApplication  : Started SpringbootvalidationApplication in 1.399 seconds (JVM running for 1.941)
+2022-05-16 17:37:54.805  INFO 11280 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 17:37:54.805  INFO 11280 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-16 17:37:54.806  INFO 11280 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-05-16 17:37:54.833  INFO 11280 --- [http-nio-8081-exec-1] c.j.mvc.controller.SignupController      : enter get method
+2022-05-16 17:42:48.242  INFO 11280 --- [RMI TCP Connection(16)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
